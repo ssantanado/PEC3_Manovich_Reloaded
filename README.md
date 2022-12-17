@@ -63,7 +63,7 @@ Consiste en un juego de preguntas en el que hay que elegir entre tres opciones d
 
 El juego consta de un total de 9 preguntas y al finalizar otorga una puntuación y un mensaje sobre ella.
 
-![Funcionamiento del juego]()
+![Funcionamiento del juego](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/Trivial.gif)
 
 ### Hibridación
 
