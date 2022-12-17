@@ -16,7 +16,7 @@ Los casos seleccionados son:
 
 Webex ofrece un conjunto de aplicaciones de trabajo para llamadas, reuniones, mensajería y eventos, pero para simplificar vamos a analizar su aplicación de vídeo-reuniones.
 
-![Entorno Webex]()
+![Entorno Webex](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/EntornoWebex.webp)
 
 Además de ofrecer la posibilidad de compartir imagen y sonido entre un conjunto de usuarios, integra una serie de herramientas que “enriquecen” la experiencia, adaptándolas desde las reuniones físicas e integrándolas en la herramienta digital: 
 - Compartir pantalla: posibilidad de que todos los usuarios vean el contenido de la pantalla de uno de ellos
@@ -25,7 +25,7 @@ Además de ofrecer la posibilidad de compartir imagen y sonido entre un conjunto
 - Reconocimiento de gestos: la aplicación reconoce gestos sencillos con la mano (aplauso, aprobación…) y las transmite para expresar sentimientos sin interrumpir el discurso.
 - Chat: posibilidad de intercambiar mensajes y archivos con otros usuarios durante la reunión.
 
-![Reconocimiento de gestos en Webex]()
+![Reconocimiento de gestos en Webex](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/ReconocimientoGestos.png)
 
 Pero no sólo eso, sino que la aplicación añade funcionalidades que no suelen tener las reuniones físicas, salvo que se incorpore a un profesional que haga esas tareas:
 - Transcripción automática: automáticamente la aplicación puede transcribir lo que se habla para ofrecerlo como subtítulos simultáneamente, o para conservarlo para futuras consultas.
@@ -33,27 +33,31 @@ Pero no sólo eso, sino que la aplicación añade funcionalidades que no suelen 
 - Informes de asistencia: al finalizar emite automáticamente un informe con datos sobre la asistencia a la reunión (nombre, tiempo conectado, intervenciones…).
 - Grabación: permite grabar imagen y sonido de la reunión para futuras consultas.
 
-![Traducciones en tiempo real]()
+![Traducciones en tiempo real](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/Traducciones.jpg)
 
 ### Hibridación
 
 Se trata claramente de un caso de hibridación y no de multimedia, ya que se produce una verdadera integración de la mayoría de las funcionalidades citadas: durante el desarrollo de la reunión se accede a la imagen y el sonido, pero también podemos ver la transcripción o traducción, ver a la vez la pantalla compartida o la pizarra, recibir gestos, mensajes de chat…
+
 Cada una de las funcionalidades ofrecidas por la aplicación ya existen individualmente, no hay ninguna nueva manera de manipular los datos. Por ejemplo, los chats existen desde hace bastantes años; las herramientas de transcripción y traducción instantáneas han avanzado mucho y ya se ofrecen, por ejemplo en YouTube; la grabación de algo que se ofrece por una pantalla es una de las primeras aplicaciones digitales de uso masivo…
-Se trata de un ejemplo claro de hibridación de interfaz de usuario, ya que no manipula los datos de diferente manera a como lo hacen otras aplicaciones ya existentes, sino las integra en la aplicación ofreciendo una manera diferente de interaccionar. Para ello, además, se sirve de metáforas provenientes del mundo físico: levantar la mano, pizarra blanca, compartir pantalla… 
+
+Se trata de un ejemplo claro de hibridación de interfaz de usuario, ya que no manipula los datos de diferente manera a como lo hacen otras aplicaciones ya existentes, sino las integra en la aplicación ofreciendo una manera diferente de interaccionar. Para ello, además, se sirve de metáforas provenientes del mundo físico: levantar la mano, pizarra blanca, compartir pantalla…
+
 Por ello, podríamos decir que en esta aplicación se ha producido lo que Manovich llama una “remezclabilidad profunda” de los medios: tanto las tipologías de medios y técnicas simuladas como nuevas han pasado a funcionar como componentes de una nueva combinación de medios (Manovich, 2013).
 
 ### Conclusiones
 
-En mi experiencia personal, el uso de este tipo de herramientas está cambiando la forma de reunirse y, por lo tanto, de trabajar. Lo que antes se percibía por muchos usuarios por una pérdida de tiempo y esfuerzo (como ejemplo, la famosa broma: “otra reunión que podía haber sido un e-mail…”), ahora se ha convertido no sólo en un sustituto válido de las reuniones físicas, sino en una herramienta que aporta más valor que las reuniones físicas, al margen de la distancia de los asistentes. Gracias a las funcionalidades mencionadas, cada vez en más ocasiones se prefiere hacer una video-reunión en vez de una reunión presencial entre usuarios que están incluso en el mismo edificio. 
+En mi experiencia personal, el uso de este tipo de herramientas está cambiando la forma de reunirse y, por lo tanto, de trabajar. Lo que antes se percibía por muchos usuarios por una pérdida de tiempo y esfuerzo (como ejemplo, la famosa broma: “otra reunión que podía haber sido un e-mail…”), ahora se ha convertido no sólo en un sustituto válido de las reuniones físicas, sino en una herramienta que aporta más valor que las reuniones físicas, al margen de la distancia de los asistentes. Gracias a las funcionalidades mencionadas, cada vez en más ocasiones se prefiere hacer una video-reunión en vez de una reunión presencial entre usuarios que están incluso en el mismo edificio.
+
 Como curiosidad, uno de los lemas destacados de Webex en su página web es:
 
-![Página web de Webex]()
+![Página web de Webex](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/WebexPaginaWeb.png)
 
 ## Caso 2. El juego Trivial: sonidos de animales, de Google Earth  
 
 Google Earth, dentro del apartado Voyager ofrece un apartado de juegos, y uno de ellos es nuestro caso de análisis: Trivial: Sonidos de animales.
 
-![Portada de Trivial: sonidos de animales]()
+![Portada de Trivial: sonidos de animales](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/TrivialPortada.png)
 
 Consiste en un juego de preguntas en el que hay que elegir entre tres opciones de respuesta. Las preguntas consisten en sonidos de animales y hay que adivinar qué animal lo produce, para lo que se ofrece el nombre, la imagen, y la posición en el globo terráqueo de los tres animales que se pueden elegir como respuesta. Hasta aquí nada demasiado relevante, salvo el uso de imagen, texto y sonido, lo que podría ser un caso de multimedia. Lo novedoso consiste en que, tras consignar la respuesta, el juego te comunica si has acertado o fallado y, además de ofrecerte en forma de texto información adicional (a veces también algún hipervínculo a algún otro recurso), inicia un “viaje” en 3D desde la visión del globo terráqueo hasta la ubicación del entorno donde suele habitar el animal en cuestión en imagen de Street View.
 
